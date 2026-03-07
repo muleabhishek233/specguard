@@ -1,0 +1,5 @@
+
+{
+  "name": "SpecGuard AI",
+  "description": "A high-performance PRD and specification auditor that uses Gemini AI to detect ambiguities, missing criteria, and scope risks with structured feedback and a quality score."
+}
